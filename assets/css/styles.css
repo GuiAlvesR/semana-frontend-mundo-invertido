@@ -15,7 +15,7 @@
     rgba(255, 255, 255, 0.75) 100%
   );
   --header-background-color: #e3e3e3;
-  --highlight-color: #000000;
+  --highlight-color: #1a1a1a;
   --featured-font-family: "Archivo", sans-serif;
   --character-top-image-src: url("../images/characters/kids-on-the-bike.svg");
   --character-top-image-color: #ffffff;
@@ -33,7 +33,7 @@
     rgba(19, 1, 1, 0.75) 100%
   );
   --header-background-color: #220f0f;
-  --highlight-color: #ffffff;
+  --highlight-color: #f7f7f7;
   --featured-font-family: "Rubik Glitch", sans-serif;
   --character-bottom-image-src: url("../images/characters/kids-on-the-bike.svg");
   --character-bottom-image-color: rgba(255, 255, 255, 0.1);
